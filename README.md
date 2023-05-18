@@ -1,0 +1,1 @@
+This project is a voice assistant skill for the Yandex Alice platform, developed using the Spring Framework. The purpose of this application is to provide users with access to the Bible in a modern Russian translation, allowing them to listen to the Bible anytime and anywhere.
